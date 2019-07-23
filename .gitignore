@@ -1,0 +1,5 @@
+*.exe
+*.out
+del.cpp
+del.py
+del
